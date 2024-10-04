@@ -7,3 +7,5 @@ For using this chatbot, one must follow the following instructions:
 3. Paste it on the box for the API key given in the side panel.
 4. Upload one or more PDFs in the second box given in the side panel.
 5. Ask questions and enjoy the conversation!
+
+The project has been deployed at: https://chat-with-pdf-bot.streamlit.app/
